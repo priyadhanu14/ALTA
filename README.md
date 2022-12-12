@@ -55,7 +55,7 @@ Many government medical facilities, especially in the rural parts of the country
 ```
 
 ### Screenshots
-<img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/2.PNG"/>
+
 <img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/1.PNG"/>
 <img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/3.PNG"/>
 <br/>
