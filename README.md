@@ -55,9 +55,9 @@ Many government medical facilities, especially in the rural parts of the country
 ```
 
 ### Screenshots
-<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/blob/main/screenshots/2.PNG"/>
-<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/blob/main/screenshots/1.PNG"/>
-<img src="https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing/blob/main/screenshots/3.PNG"/>
+<img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/2.PNG"/>
+<img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/1.PNG"/>
+<img src="https://github.com/priyadhanu14/ALTA/blob/main/screenshots/3.PNG"/>
 <br/>
 
 ### Quick Start
@@ -65,7 +65,7 @@ Many government medical facilities, especially in the rural parts of the country
 1. Clone the repo
 
 ```
-$ git clone https://github.com/sinking8/Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing.git
+$ git clone https://github.com/priyadhanu14/ALTA.git
 $ cd Automated-Medical-Laboratory-Test-Analysis-using-Image-Processing
 ```
 
